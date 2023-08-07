@@ -16,9 +16,9 @@ Retinexフィルタの根幹をなすMSRCR (MultiScale Retinex with Color Restor
 　⇨blurとかにすれば0,14まで軽くなった、ただし出力は微妙
 
 
-### sample
-![image](https://github.com/suke-toudara/ClearViewProcessor/assets/82552894/27f40a1a-6ce0-47ae-8e88-c492fec0754a)
+## sample
 
+![image](https://github.com/suke-toudara/ClearViewProcessor/assets/82552894/27f40a1a-6ce0-47ae-8e88-c492fec0754a)
 
  ![image](https://github.com/suke-toudara/ClearViewProcessor/assets/82552894/930ea1b3-872f-492f-b263-be37af2d1ce9)
 
