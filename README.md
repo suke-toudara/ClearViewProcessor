@@ -15,6 +15,8 @@ Retinexフィルタの根幹をなすMSRCR (MultiScale Retinex with Color Restor
 ・ガウシアンフィルタ部分　確率密度関数とかいろいろ使っているので激重
 　⇨blurとかにすれば0,14まで軽くなった、ただし出力は微妙
 
+
+### sample
 ![image](https://github.com/suke-toudara/ClearViewProcessor/assets/82552894/27f40a1a-6ce0-47ae-8e88-c492fec0754a)
 
 
