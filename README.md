@@ -26,4 +26,6 @@ Retinexフィルタの根幹をなすMSRCR (MultiScale Retinex with Color Restor
 ホワイトバランスの調整をして、なるべく自然色に戻してあげてる。
 Lab空間に写してごにょごにょするだけ
 
+![image](https://github.com/suke-toudara/ClearViewProcessor/assets/82552894/7bd63aac-472f-48ac-9bc7-611d03f1dba5)
+
 
